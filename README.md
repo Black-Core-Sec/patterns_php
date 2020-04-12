@@ -1,2 +1,1 @@
-# patterns_php
-Examples of patterns on PHP
+#Examples of patterns on PHP
